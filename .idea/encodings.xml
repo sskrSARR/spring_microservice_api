@@ -5,5 +5,9 @@
     <file url="file://$PROJECT_DIR$/api/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/registry/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/registry/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-classe/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-classe/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-sector/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-sector/src/main/resources" charset="UTF-8" />
   </component>
 </project>

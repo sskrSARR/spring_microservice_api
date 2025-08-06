@@ -6,6 +6,8 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="service-classe" />
+        <module name="service-sector" />
       </profile>
       <profile name="Annotation profile for registry" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -31,6 +33,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="api" options="-parameters" />
       <module name="registry" options="-parameters" />
+      <module name="service-classe" options="-parameters" />
+      <module name="service-sector" options="-parameters" />
     </option>
   </component>
 </project>
